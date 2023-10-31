@@ -1,7 +1,8 @@
 ### Olá 👋
 
-Sou a Stefanie e sou uma programadora Front-End em desenvolvimento profissional,atualmente tenho experiencia em: HTML5 e CSS3,onde já desenvolvi alguns projetos como Landing Pages e Criação de Web Sites responsivos.
-Agora estou desenvolvendo experiência na linguagem JavaScript com ajuda dos meus estudos.
+Sou uma desenvolvedora Front-End e atualmente tenho experiencia nas seguintes linguagens: HTML,CSS e JavaScript. 
+Gosto muito de aperfeiçoar o meu conhecimento, por isso continuo sempre estudando e aperfeiçoando minhas habilidades,também para me dar apoio nesse processo de constante evolução sempre
+faço projetos pessoais para colocar o conhecimento e habilidade em prática.
 <br>
 <br>
 <br>

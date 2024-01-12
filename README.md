@@ -1,6 +1,6 @@
 ### Olá 👋
 
-Sou uma desenvolvedora Front-End e atualmente tenho experiencia nas seguintes linguagens: HTML,CSS e JavaScript. 
+Sou uma desenvolvedora Front-End e atualmente tenho experiencia nas seguintes linguagens e Tecnologias: HTML,CSS,JavaScript e React. 
 Gosto muito de aperfeiçoar o meu conhecimento, por isso continuo sempre estudando e aperfeiçoando minhas habilidades,também para me dar apoio nesse processo de constante evolução sempre
 faço projetos pessoais para colocar o conhecimento e habilidade em prática.
 <br>

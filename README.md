@@ -1,7 +1,7 @@
 Olá 💖
 <br>✨<br>💖 ✨
 
-Sou uma <b>Desenvolvedora Front-End</b> apaixonada em construir interfaces que trazem uma boa experiência ao usuário.
+<h1>Sou uma <b>Desenvolvedora Front-End</b> apaixonada em construir interfaces que trazem uma boa experiência ao usuário.</h1>
 <br>
 <br>
 Acredito que um bom desenvolvedor é aquele que busca aperfeiçoar o seu aprendizado constantemente,por isso continuo cresço com os meus projetos pessoais,e com isso consigo

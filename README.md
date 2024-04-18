@@ -4,12 +4,12 @@ Olá 💖
 <h1>Sou uma <b>Desenvolvedora Front-End</b></h1> apaixonada em construir interfaces que trazem uma boa experiência ao usuário.
 <br>
 <br>
-Acredito que um bom desenvolvedor é aquele que busca aperfeiçoar o seu aprendizado constantemente,por isso continuo cresço com os meus projetos pessoais,e com isso consigo
+<p></p>Acredito que um bom desenvolvedor é aquele que busca aperfeiçoar o seu aprendizado constantemente,por isso continuo cresço com os meus projetos pessoais,e com isso consigo
 ganhar cada vez mais conhecimento no universo incrivel da tecnologia.
 <br>
 <br>
 E desenvolver pra mim é um mundo de oportunidades onde você pode mostrar do que é capaz,desenvolver é ganhar as melhores habilidades para alcançar a resolução de um problema.E ter essa
-rotina é um privilégio ela me faz me sentir viva e com a sensação de estar em constante crescimento.
+rotina é um privilégio ela me faz me sentir viva e com a sensação de estar em constante crescimento.</p>
 <br>
 <br>
 <br>

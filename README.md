@@ -3,7 +3,7 @@ Olá 💖
 
 Sou uma <b>Desenvolvedora Front-End</b> apaixonada em construir interfaces que trazem uma boa experiência ao usuário.
 <br>
-Acredito que um bom desenvolvedor é aquele que busca aperfeiçoar o seu aprendizado constantemente,por isso continuo crescendo com os meus projetos pessoais,e com isso consigo
+Acredito que um bom desenvolvedor é aquele que busca aperfeiçoar o seu aprendizado constantemente,por isso continuo cresço com os meus projetos pessoais,e com isso consigo
 ganhar cada vez mais conhecimento no universo incrivel da tecnologia.
 <br>
 E desenvolver pra mim é um mundo de oportunidades onde você pode mostrar do que é capaz,desenvolver é ganhar as melhores habilidades para alcançar a resolução de um problema.E ter essa

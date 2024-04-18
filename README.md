@@ -16,7 +16,7 @@ rotina é um privilégio ela me faz me sentir viva e com a sensação de estar e
 
 
 - :computer: Projetos Freelances 
-- :pager: Estudando Atualmente: React.js e Typescript 💻
+- :pager: Estudando Atualmente: React.js e Typescript
 - :office: Estou em busca de uma oportunidade profissional
 - :house: São Paulo-SP
 - :ribbon: ELA/DELA

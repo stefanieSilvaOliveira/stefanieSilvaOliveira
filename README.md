@@ -9,14 +9,14 @@ ganhar cada vez mais conhecimento no universo incrivel da tecnologia.
 <br>
 <br>
 E desenvolver pra mim é um mundo de oportunidades onde você pode mostrar do que é capaz,desenvolver é ganhar as melhores habilidades para alcançar a resolução de um problema.E ter essa
-rotina é um privilégio ela me faz me sentir viva e com a sensação de estar em constante crescimento.</p>
+rotina é um privilégio ela me faz me sentir viva e com a sensação de estar em constante crescimento.</p>🚀
 <br>
 <br>
 <br>
 
 
 - :computer: Projetos Freelances 
-- :pager: Estudando Atualmente: JavaScript e React
+- :pager: Estudando Atualmente: React.js e Typescript 💻
 - :office: Estou em busca de uma oportunidade profissional
 - :house: São Paulo-SP
 - :ribbon: ELA/DELA

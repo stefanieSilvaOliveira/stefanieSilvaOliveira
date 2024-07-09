@@ -2,7 +2,7 @@
 
 # 💖 Bem-vindos ao Meu GitHub 💖
 
-(<img src="https://github.com/stefanieSilvaOliveira/stefanieSilvaOliveira/assets/118211028/07cd118c-25f2-424c-8d2c-bdd61d282791>)
+<img src="https://tenor.com/pt-BR/view/poking-a-star-asha-star-wish-sparkling-touch-gif-15959726371558618237">
 )
 
 ---

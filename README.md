@@ -2,7 +2,8 @@
 
 # 💖 Bem-vindos ao Meu GitHub 💖
 
-![Banner](https://path-to-your-banner-image)
+(<img src="https://github.com/stefanieSilvaOliveira/stefanieSilvaOliveira/assets/118211028/07cd118c-25f2-424c-8d2c-bdd61d282791>)
+)
 
 ---
 
@@ -41,8 +42,6 @@ Aqui estão algumas das tecnologias que domino:
 ## Contato
 
 📧 **Email:** [stefaniesilvadeoliveira@yahoo.com.br](mailto:seu-email@exemplo.com)  
-💼 **LinkedIn:** [](https://linkedin.com/in/seu-perfil)  
-🌐 **Portfólio:** [Seu Portfólio](https://seu-portfolio.com)
 
 ---
 

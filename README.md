@@ -1,6 +1,6 @@
 
 
-<h1 style="text-align: center; color: #ff69b4;">💗 Bem-vindos ao Meu GitHub 💗</h1>
+<h1 style="align: center; color: #ff69b4;">💗 Bem-vindos ao Meu GitHub 💗</h1>
 
 
 <div align="center">

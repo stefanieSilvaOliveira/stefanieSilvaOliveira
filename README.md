@@ -1,6 +1,7 @@
 
 
-<h1 align="center" 💗 Bem-vindos ao Meu GitHub 💗>
+<h1 style="text-align: center; color: #ff69b4;">💗 Bem-vindos ao Meu GitHub 💗</h1>
+
 
 <div align="center">
   <img src="https://media1.tenor.com/m/rUmbv8-wC_gAAAAd/poking-a-star-asha.gif" style="width: 200px; height: auto; display: flex; justify-content: center;">

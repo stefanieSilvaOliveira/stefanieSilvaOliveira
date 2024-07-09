@@ -9,7 +9,7 @@
 
 ---
 
-<h2 align="center">🎀 Sobre Mim</h2>
+<h2>🎀 Sobre Mim</h2>
 
 <div align="center;">
     👑 <strong>Nome:</strong> Stefanie <br>

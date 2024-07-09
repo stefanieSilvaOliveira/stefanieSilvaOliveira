@@ -46,18 +46,8 @@
 ---
 
 <p align="center">
-  <img src="https://path-to-your-doll-image" alt="Stefanie Doll" width="200"/>
+  <img src="https://i.pinimg.com/564x/3f/39/e8/3f39e8bc670a089ae9608dc159ad8518.jpg" width="100" alt="Logo">
 </p>
-
-<style>
-  h1, h2, h3, p {
-    color: #ff69b4; /* Rosa */
-  }
-  body {
-    background-color: #000000; /* Preto */
-    color: #ffffff; /* Branco */
-  }
-</style>
 
 
 

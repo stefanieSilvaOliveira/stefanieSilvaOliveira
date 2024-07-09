@@ -1,60 +1,37 @@
+# 👩‍💻 Stefanie - Desenvolvedora Full Stack
 
-Olá, Eu sou a Stefanie! 👩‍💻
+![Banner](https://via.placeholder.com/1000x200/ff69b4/ffffff?text=Bem+vindo+ao+meu+GitHub)
 
-Sobre Mim
-Eu sou uma desenvolvedora full stack de 30 anos com uma paixão por criar e desenvolver soluções inovadoras. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas. Aqui estão algumas das tecnologias com as quais trabalho:
+## Sobre Mim
+Olá! Eu me chamo **Stefanie**, tenho 30 anos e sou uma desenvolvedora Full Stack. Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas**. Tenho paixão por tecnologia e desenvolvimento de software, sempre buscando novas oportunidades para aprender e crescer na minha carreira.
 
+## Tecnologias
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML" height="60" style="margin-right: 10px;">
+  <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS" height="60" style="margin-right: 10px;">
+  <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript" height="60" style="margin-right: 10px;">
+  <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React.js" height="60" style="margin-right: 10px;">
+  <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="Node.js" height="60" style="margin-right: 10px;">
+  <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="MongoDB" height="60" style="margin-right: 10px;">
 </p>
-Experiência Profissional
-Desenvolvedora Full Stack
 
-Desenvolvimento de aplicações web utilizando React.js e Node.js.
-Implementação de bancos de dados NoSQL com MongoDB.
-Criação de interfaces de usuário dinâmicas e responsivas com HTML, CSS e JavaScript.
-Projetos Acadêmicos
+## Experiências
+- Desenvolvimento de aplicações web com **HTML**, **CSS** e **JavaScript**.
+- Criação de interfaces dinâmicas e interativas com **React.js**.
+- Desenvolvimento de APIs e serviços back-end com **Node.js**.
+- Gerenciamento de banco de dados não relacional com **MongoDB**.
+- Trabalhos acadêmicos e projetos pessoais durante o curso de **Análise e Desenvolvimento de Sistemas**.
 
-Desenvolvimento de sistemas como parte do curso de Análise e Desenvolvimento de Sistemas.
-Aplicação de conceitos teóricos em projetos práticos, como a criação de APIs RESTful.
-Tecnologias & Ferramentas
-<div align="center">
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />
-</div>
-Vamos Conectar!
-<p align="center">
-  <a href="https://github.com/yourusername">
-    <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/yourusername">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:youremail@example.com">
-    <img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-<style>
-  body {
-    background-color: #000000;
-    color: #FF69B4;
-  }
-  h1, h2, h3, h4, h5, h6 {
-    color: #FF69B4;
-  }
-  a {
-    color: #FF69B4;
-  }
-</style>
+## Contato
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil)
+[![Email](https://img.shields.io/badge/Email-ff69b4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@gmail.com)
+
+![Footer](https://via.placeholder.com/1000x100/000/ff69b4?text=Obrigado+pela+visita!)
+
+
+
+
+
 
 
 

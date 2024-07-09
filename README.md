@@ -2,7 +2,7 @@
 
 # 💖 Bem-vindos ao Meu GitHub 💖
 
-<img src="https://tenor.com/pt-BR/view/poking-a-star-asha-star-wish-sparkling-touch-gif-12486682689986890744">
+<img src="https://media1.tenor.com/m/rUmbv8-wC_gAAAAd/poking-a-star-asha.gif">
 
 
 ---

@@ -26,7 +26,7 @@ Olá! Eu me chamo **Stefanie**, tenho 30 anos e sou uma desenvolvedora Full Stac
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil)
 [![Email](https://img.shields.io/badge/Email-ff69b4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@gmail.com)
 
-![Footer](https://via.placeholder.com/1000x100/000/ff69b4?text=Obrigado+pela+visita!)
+
 
 
 

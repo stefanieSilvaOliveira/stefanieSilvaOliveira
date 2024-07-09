@@ -2,8 +2,7 @@
 
 # 💖 Bem-vindos ao Meu GitHub 💖
 
-<img src="<div class="tenor-gif-embed" data-postid="15959726371558618237" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/poking-a-star-asha-star-wish-sparkling-touch-gif-15959726371558618237">Poking A Star Asha Sticker</a>from <a href="https://tenor.com/search/poking+a+star-stickers">Poking A Star Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>">
-
+<img src="https://tenor.com/ta7SyRmVxfd.gif">
 
 
 ---

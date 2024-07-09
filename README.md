@@ -2,7 +2,7 @@
 
 # 💖 Bem-vindos ao Meu GitHub 💖
 
-<img src="https://tenor.com/ta7SyRmVxfd.gif">
+<img src="https://github.com/stefanieSilvaOliveira/stefanieSilvaOliveira/assets/118211028/99d00dd3-0a59-4ead-9ef0-551f6c329173">
 
 
 ---

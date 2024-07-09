@@ -13,6 +13,7 @@
 
 <div align="center;">
     👑 <strong>Nome:</strong> Stefanie <br>
+  <b>
     💼 <strong>Profissão:</strong> Desenvolvedora Fullstack
 </div>
 

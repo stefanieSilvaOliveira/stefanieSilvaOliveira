@@ -1,40 +1,61 @@
-Olá 💖
-<br>✨<br>💖 ✨
 
-<h1><b>Desenvolvedora FullStack</b></h1> apaixonada em construir interfaces que trazem uma boa experiência ao usuário.
-<br>
-<br>
-<p></p>Acredito que um bom desenvolvedor é aquele que busca aperfeiçoar o seu aprendizado constantemente,por isso continuo cresço com os meus projetos pessoais,e com isso consigo
-ganhar cada vez mais conhecimento no universo incrivel da tecnologia.
-<br>
-<br>
-E desenvolver pra mim é um mundo de oportunidades onde você pode mostrar do que é capaz,desenvolver é ganhar as melhores habilidades para alcançar a resolução de um problema.E ter essa
-rotina é um privilégio ela me faz me sentir viva e com a sensação de estar em constante crescimento.</p>🚀
-<br>
-<br>
-<br>
+Olá, Eu sou a Stefanie! 👩‍💻
+
+Sobre Mim
+Eu sou uma desenvolvedora full stack de 30 anos com uma paixão por criar e desenvolver soluções inovadoras. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas. Aqui estão algumas das tecnologias com as quais trabalho:
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
+Experiência Profissional
+Desenvolvedora Full Stack
+
+Desenvolvimento de aplicações web utilizando React.js e Node.js.
+Implementação de bancos de dados NoSQL com MongoDB.
+Criação de interfaces de usuário dinâmicas e responsivas com HTML, CSS e JavaScript.
+Projetos Acadêmicos
+
+Desenvolvimento de sistemas como parte do curso de Análise e Desenvolvimento de Sistemas.
+Aplicação de conceitos teóricos em projetos práticos, como a criação de APIs RESTful.
+Tecnologias & Ferramentas
+<div align="center">
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />
+</div>
+Vamos Conectar!
+<p align="center">
+  <a href="https://github.com/yourusername">
+    <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/yourusername">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:youremail@example.com">
+    <img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+<style>
+  body {
+    background-color: #000000;
+    color: #FF69B4;
+  }
+  h1, h2, h3, h4, h5, h6 {
+    color: #FF69B4;
+  }
+  a {
+    color: #FF69B4;
+  }
+</style>
 
 
-- :computer: Projetos Freelances 
-- :pager: Estudando Atualmente: React.js e Typescript
-- :office: Estou em busca de uma oportunidade profissional
-- :house: São Paulo-SP
-- :ribbon: ELA/DELA
-- :e-mail: stefaniesilvadeoliveira@yahoo.com.br
-<br>
-<br>
-<br>
-
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<a href="https://www.linkedin.com/in/stefanie-silva-de-oliveira/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> 
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Powershell-2CA5E0?style=for-the-badge&logo=powershell&logoColor=white"/> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/> <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<br>
-<br>
-<br>
 
 

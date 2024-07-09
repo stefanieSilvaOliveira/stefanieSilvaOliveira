@@ -1,47 +1,64 @@
 
 
-# Bem-vinda(o) ao meu GitHub! 🌟
+# 💖 Bem-vindos ao Meu GitHub 💖
 
-![Banner](https://via.placeholder.com/800x200/ff69b4/000000?text=Stefanie+-+Desenvolvedora+Full+Stack)
+![Banner](https://path-to-your-banner-image)
+
+---
 
 ## Sobre Mim
 
-<img src="https://via.placeholder.com/150/ff69b4/000000?text=Stefanie" align="right" width="200" style="border-radius:50%">
+👩‍💻 **Nome:** Stefanie  
+🎂 **Idade:** 30 anos  
+💼 **Profissão:** Desenvolvedora Fullstack
 
-Olá! Eu me chamo **Stefanie**, tenho 30 anos e sou uma desenvolvedora **Full Stack** apaixonada por tecnologia e inovação. Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas**. Tenho experiência com as seguintes tecnologias:
+---
 
-### Tecnologias
-<p align="center">
-  <img src="https://img.shields.io/badge/-HTML5-ff69b4?style=for-the-badge&logo=html5&logoColor=black" />
-  <img src="https://img.shields.io/badge/-CSS3-ff69b4?style=for-the-badge&logo=css3&logoColor=black" />
-  <img src="https://img.shields.io/badge/-JavaScript-ff69b4?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/-React-ff69b4?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Node.js-ff69b4?style=for-the-badge&logo=node.js&logoColor=black" />
-  <img src="https://img.shields.io/badge/-MongoDB-ff69b4?style=for-the-badge&logo=mongodb&logoColor=black" />
-</p>
+## Conhecimentos
 
-## Experiência
-
-### Desenvolvedora Full Stack
-- Desenvolvimento de aplicações web utilizando **React.js**, **Node.js** e **MongoDB**.
-- Criação de interfaces responsivas com **HTML5**, **CSS3** e **JavaScript**.
-- Implementação de APIs RESTful e integração com bancos de dados.
-
-## Formação Acadêmica
-- **Análise e Desenvolvimento de Sistemas** (Cursando)
-
-## Contato
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-ff69b4?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com)
-- [![Email](https://img.shields.io/badge/-Email-ff69b4?style=for-the-badge&logo=gmail&logoColor=black)](mailto:seuemail@gmail.com)
+Aqui estão algumas das tecnologias que domino:
 
 <p align="center">
-  <img src="https://via.placeholder.com/300/ff69b4/000000?text=Boneca+Morena+com+Cabelo+Preto" width="300" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
 </p>
 
 ---
 
-![Visitor Count](https://profile-counter.glitch.me/{YOUR_USERNAME}/count.svg)
+## Experiências
 
+- 🌟 **Desenvolvedora Fullstack** com experiência em construção de aplicações web do início ao fim.
+- 🚀 **Projetos Pessoais:** Trabalhando em um portfólio com React.js, ScrollReveal, Styled-Components e useEffect.
+- 🎨 **Design e Prototipagem:** Utilizando Figma para criar interfaces intuitivas e atraentes.
+
+---
+
+## Contato
+
+📧 **Email:** [seu-email@exemplo.com](mailto:seu-email@exemplo.com)  
+💼 **LinkedIn:** [Seu LinkedIn](https://linkedin.com/in/seu-perfil)  
+🌐 **Portfólio:** [Seu Portfólio](https://seu-portfolio.com)
+
+---
+
+<p align="center">
+  <img src="https://path-to-your-doll-image" alt="Stefanie Doll" width="200"/>
+</p>
+
+<style>
+  h1, h2, h3, p {
+    color: #ff69b4; /* Rosa */
+  }
+  body {
+    background-color: #000000; /* Preto */
+    color: #ffffff; /* Branco */
+  }
+</style>
 
 
 

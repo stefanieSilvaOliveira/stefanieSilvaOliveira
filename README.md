@@ -2,8 +2,8 @@
 
 # 💖 Bem-vindos ao Meu GitHub 💖
 
-<div style="text-align: center;">
-  <img src="https://media1.tenor.com/m/rUmbv8-wC_gAAAAd/poking-a-star-asha.gif" style="width: 200px; height: auto; display: flex; justify-content: center; margin-left: 200px;">
+<div style="text-align: center; margin-left: 300px;">
+  <img src="https://media1.tenor.com/m/rUmbv8-wC_gAAAAd/poking-a-star-asha.gif" style="width: 200px; height: auto; display: flex; justify-content: center;">
 </div>
 
 ---

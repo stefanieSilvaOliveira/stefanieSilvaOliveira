@@ -9,7 +9,7 @@
 
 ---
 
-## Sobre Mim
+<h2 align="center">🎀 Sobre Mim</h2>
 
 👑 **Nome:** Stefanie  
 💼 **Profissão:** Desenvolvedora Fullstack

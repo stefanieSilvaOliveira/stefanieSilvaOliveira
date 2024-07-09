@@ -11,8 +11,9 @@
 
 <h2 align="center">🎀 Sobre Mim</h2>
 
-👑 **Nome:** Stefanie  
+<div align="center">👑 **Nome:** Stefanie  
 💼 **Profissão:** Desenvolvedora Fullstack
+</div>
 
 ---
 

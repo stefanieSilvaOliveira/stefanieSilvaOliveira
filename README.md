@@ -40,8 +40,8 @@ Aqui estão algumas das tecnologias que domino:
 
 ## Contato
 
-📧 **Email:** [seu-email@exemplo.com](mailto:seu-email@exemplo.com)  
-💼 **LinkedIn:** [Seu LinkedIn](https://linkedin.com/in/seu-perfil)  
+📧 **Email:** [stefaniesilvadeoliveira@yahoo.com.br](mailto:seu-email@exemplo.com)  
+💼 **LinkedIn:** [](https://linkedin.com/in/seu-perfil)  
 🌐 **Portfólio:** [Seu Portfólio](https://seu-portfolio.com)
 
 ---

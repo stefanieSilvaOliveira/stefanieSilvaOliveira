@@ -1,6 +1,6 @@
 
 
-# 💖 Bem-vindos ao Meu GitHub 💖
+# 💗 Bem-vindos ao Meu GitHub 💗
 
 <div style="text-align: center;">
   <img src="https://media1.tenor.com/m/rUmbv8-wC_gAAAAd/poking-a-star-asha.gif" style="width: 200px; height: auto; display: flex; justify-content: center;">
@@ -10,8 +10,7 @@
 
 ## Sobre Mim
 
-👩‍💻 **Nome:** Stefanie  
-🎂 **Idade:** 30 anos  
+👑 **Nome:** Stefanie  
 💼 **Profissão:** Desenvolvedora Fullstack
 
 ---
@@ -45,9 +44,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://i.pinimg.com/564x/3f/39/e8/3f39e8bc670a089ae9608dc159ad8518.jpg" width="100" alt="Logo">
-</p>
 
 
 

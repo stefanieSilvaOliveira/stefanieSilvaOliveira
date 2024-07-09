@@ -39,7 +39,7 @@ Olá! Eu me chamo **Stefanie**, tenho 30 anos e sou uma desenvolvedora Full Stac
 </p>
 
 <p align="center">
-  <img src="https://via.placeholder.com/1000x100/000/ff69b4?text=Obrigado+pela+visita!" alt="Obrigado pela visita">
+  <img src="https://via.placeholder.com/1000x100/000/ff69b4?text=Obrigado+pela+visita!" alt="Obrigada pela visita">
 </p>
 
 

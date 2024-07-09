@@ -2,7 +2,7 @@
 
 # 💗 Bem-vindos ao Meu GitHub 💗
 
-<div style="text-align: center;">
+<div align="center">
   <img src="https://media1.tenor.com/m/rUmbv8-wC_gAAAAd/poking-a-star-asha.gif" style="width: 200px; height: auto; display: flex; justify-content: center;">
 </div>
 
